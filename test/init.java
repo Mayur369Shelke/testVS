@@ -1,3 +1,3 @@
 public class init {
-    int a = 20;
+    int a = 30;
 }
